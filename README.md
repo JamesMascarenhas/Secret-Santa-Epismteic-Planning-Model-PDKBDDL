@@ -11,7 +11,7 @@
 This project models a multi-agent epistemic planning setting using a structured **Secret Santa** scenario.  
 The focus is on how agents **gain**, **lose**, **reason about**, and **update** their knowledge and beliefs through actions, communication, and inference.
 
-Across seven progressively more complex problems, the model demonstrates key concepts from the Week 10 lectures, including:
+Across seven progressively more complex problems, the model demonstrates key concepts from the epistemic lecture, including:
 
 - Public announcements  
 - Private announcements  
